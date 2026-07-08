@@ -48,9 +48,11 @@ I also received a Power Query Masterclass Certificate after completing the cours
    Microsoft Excel<br>
    Power Query<br>
    Gmail (IMAP Enabled)
+   <Br><hr>
    <br>
-📷 Project Images<r>
- Gmail connection image
+📷 Project Images<br>
+ Gmail connection image<Br>
+ 
 <img src="https://github.com/Sitaramgawade/Gmail_To_Excel/blob/e799f6aec7ce57dff54528e806d1eac0fe78f1c2/Data_SendTo_gmail.png" alt="Image Discription" width="600">
 <Br><hr>
 
@@ -64,10 +66,23 @@ Excel Output
 <img src="https://github.com/Sitaramgawade/Gmail_To_Excel/blob/e799f6aec7ce57dff54528e806d1eac0fe78f1c2/Data_In_Excel.png" alt="Image Discription" width="600">
 
 
-(Insert final Excel table here)
+🎯 Skills Demonstrated
+Data Cleaning
+Data Transformation
+ETL Process
+Excel Automation
+Power Query
+Gmail Integration
+Data Preparation
+<Br<<hr>
+📜 Certificate
 
-Data Refresh
+I successfully completed the Power Query Masterclass by Satish Dhawale and earned the completion certificate.
+(Upload on Linkedin)
 
-📸 Add Screenshot Here
-
-(Insert Refresh button or refreshed data screenshot here)
+📈 Future Improvements<br>
+Connect Outlook emails<br>
+Create an Excel Dashboard<br>
+Automate reports<br>
+Schedule automatic data refresh<br>
+Connect multiple email accounts
